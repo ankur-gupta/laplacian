@@ -3,7 +3,7 @@ layout: post
 title: "What is Jeykll?"
 date: 2015-09-07
 comments: true
-image: beach-clouds-daylight-2104153.jpg
+image: what-is-jekyll/beach-clouds-daylight-2104153.jpg
 ---
 
 This post is copied from [Trio](https://www.perfectlyrandom.org/trio/2015/09/06/what-is-jekyll/) and

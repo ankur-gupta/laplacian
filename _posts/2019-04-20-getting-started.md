@@ -3,7 +3,7 @@ layout: post
 title: "Getting started"
 date: 2019-04-20
 comments: true
-image: airport-coffee-cup-1684151-clipped.jpg
+image: getting-started/airport-coffee-cup-1684151-clipped.jpg
 ---
 
 ## First Steps

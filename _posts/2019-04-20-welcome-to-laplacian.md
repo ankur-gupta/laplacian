@@ -5,7 +5,7 @@ author: "Ankur Gupta"
 categories: journal
 comments: true
 tags: [documentation,sample]
-image: beautiful-city-daylight-210243.jpg
+image: welcome-to-laplacian/beautiful-city-daylight-210243.jpg
 ---
 
 This theme is based on the beautiful [Lagrange](https://github.com/LeNPaul/Lagrange) theme
