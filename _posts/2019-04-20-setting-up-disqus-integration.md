@@ -1,5 +1,6 @@
 ---
 layout: post
+identifier: setting-up-disqus-integration
 title: "Setting up Disqus integration"
 date: 2019-04-20
 comments: true

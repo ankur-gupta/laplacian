@@ -1,5 +1,6 @@
 ---
 layout: post
+identifier: getting-started
 title: "Getting started"
 date: 2019-04-20
 comments: true

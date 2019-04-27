@@ -1,5 +1,6 @@
 ---
 layout: post
+identifier: welcome-to-laplacian
 title: "Welcome to Laplacian!"
 author: "Ankur Gupta"
 categories: journal

@@ -1,5 +1,6 @@
 ---
 layout: post
+identifier: code-blocks-math-tables-github-pages
 title: "Code blocks, Math, Tables, and GitHub gists"
 date: 2019-04-20
 comments: false
