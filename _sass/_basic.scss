@@ -84,8 +84,14 @@ blockquote {
 
 .masthead-subtitle {
     font-family: 'Quattrocento Sans', sans-serif;
-    font-size: 0.75rem;
-    color: lighten($black, 50%)
+    font-size: 0.65rem;
+    color: lighten($black, 50%);
+}
+
+@media (max-width: 30rem) {
+    .masthead-subtitle {
+        display: none;
+    }
 }
 
 
@@ -131,7 +137,7 @@ blockquote {
 
 @media (max-width: 30rem) {
     .masthead-menu-social {
-        visibility: hidden;
+        display: none;
     }
     .masthead-menu-list {
         margin-bottom: 0.5rem;
