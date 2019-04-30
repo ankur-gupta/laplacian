@@ -27,11 +27,6 @@ a:hover, a:focus {
     color: lighten($black, 50%);
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
-}
 
 /* Accessories */
 blockquote {
@@ -101,9 +96,15 @@ blockquote {
   margin-bottom: 1.5rem;
 }
 
+.thumbnail-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
 .thumbnail-container img {
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
+    margin-top: -11.5%;
+    margin-bottom: -11.5%;
 }
 
 
