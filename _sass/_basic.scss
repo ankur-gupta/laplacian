@@ -130,8 +130,7 @@ blockquote {
 
 @media (max-width: 30rem) {
     .masthead-menu-social {
-        float: left;
-        padding-top: 0;
+        visibility: hidden;
     }
     .masthead-menu-list {
         margin-bottom: 0.5rem;
