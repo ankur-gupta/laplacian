@@ -33,6 +33,8 @@ which are also distributed under MIT License.
 
 4. js/all.js is taken from Fontawesome under Font Awesome Free License (reproduced below).
 
+5. js/simple-jekyll-search.min.js is taken from https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/LICENSE.md under MIT License.
+
 
 
 
@@ -61,7 +63,6 @@ SOFTWARE.
 
 
 ## Font Awesome Free License
-
 
 Font Awesome Free is free, open source, and GPL friendly. You can use it for
 commercial projects, open source projects, or really almost whatever you want.
