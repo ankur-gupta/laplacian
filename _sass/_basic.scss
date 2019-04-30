@@ -1,13 +1,13 @@
 /* Overall */
 html {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 18px;
+    font-size: 20px;
     color: $black
 }
 
 @media (max-width: 30rem) {
     html {
-        font-size: 14px;
+        font-size: 16px;
     }
 }
 
@@ -44,7 +44,7 @@ blockquote {
 
 /* Container */
 .overall-container {
-    width: 50vw;
+    width: 60vw;
     margin-left: auto;
     margin-right: auto;
 }
@@ -185,7 +185,7 @@ blockquote {
 .dateline {
     display: block;
     font-family: 'Quattrocento Sans', sans-serif;
-    font-size: 0.75rem;
+    font-size: 0.65rem;
     color: lighten($black, 60%);
     margin-top: 0.3rem;
     margin-bottom: 1rem;
